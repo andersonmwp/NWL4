@@ -5,7 +5,7 @@ Trata-se de um timer pomodoro que a cada ciclo que você finalizar, irá aparece
 
 Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 minutos focado estudando/trabalhando, você realiza um desses exercícios para relaxar o corpo e conseguir manter-se focado!
 
-### Foram abordados os seguintes assuntos 📝:
+### Foram abordados os seguintes assuntos 📝
 • NEXT JS <br>
 • Typescript 
 <br>
@@ -19,7 +19,7 @@ Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 mi
 <br>
 • SSG
 
-### Próximas implementações 👨🏻‍💻:
+### Próximas implementações 👨🏻‍💻
 • Responsividade
 <br>
 • Tela de login e cadastro
@@ -31,7 +31,7 @@ Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 mi
 • Alterar a paleta de cores
 <br>
 
-### Correções de bug's 🐛:
+### Correções de bug's 🐛
 • Contador bugando quando a tela da aplicação não está em primeiro plano
 <br>
 
