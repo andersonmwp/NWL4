@@ -5,7 +5,7 @@ Trata-se de um timer pomodoro que a cada ciclo que você finalizar, irá aparece
 
 Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 minutos focado estudando/trabalhando, você realiza um desses exercícios para relaxar o corpo e conseguir manter-se focado!
 
-#### Foram abordados os seguintes assuntos:
+### Foram abordados os seguintes assuntos 📝:
 • NEXT JS <br>
 • Typescript 
 <br>
@@ -19,6 +19,22 @@ Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 mi
 <br>
 • SSG
 
+### Próximas implementações 👨🏻‍💻:
+• Responsividade
+<br>
+• Tela de login e cadastro
+<br>
+• Sistema de ranking
+<br>
+• Dark mode
+<br>
+• Alterar a paleta de cores
+<br>
+
+### Correções de bug's 🐛:
+• Contador bugando quando a tela da aplicação não está em primeiro plano
+<br>
+
 <a href="https://moveit-andersonmwp.vercel.app/"> Acesse aqui!</a>
 
 ## Tecnologias 💻
@@ -30,3 +46,12 @@ Os desafios são bem simples, são exercícios de alongamentos, que a cada 25 mi
 <br><br>
 
 ## Galeria de imagens 📸
+
+<img src="https://github.com/andersonmwp/NWL4/blob/main/img-readme/moveit-img.png"  />
+<br><br>
+<img src="https://github.com/andersonmwp/NWL4/blob/main/img-readme/moveit-gif-01.gif"  />
+<br><br>
+<img src="https://github.com/andersonmwp/NWL4/blob/main/img-readme/moveit-gif-02.gif"  />
+<br><br>
+<img src="https://github.com/andersonmwp/NWL4/blob/main/img-readme/moveit-gif-03.gif"  />
+<br><br>
